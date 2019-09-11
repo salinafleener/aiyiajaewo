@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://ipaphiapha.leonardo-app.com/sitemap.xml
